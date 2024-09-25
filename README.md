@@ -10,9 +10,9 @@
 
 <div align="center">
  
-🔭 I’m currently working on **Minecraft Modding**
+🔭 I’m currently working on **Learning Backend**
  
-🌱 I’m currently learning **React, Java, SQL**
+🌱 I’m currently learning **Rust, Go, C++, OCaml**
 
 📚 IB Student **Is super busy right now**
 
