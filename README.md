@@ -10,9 +10,9 @@
 
 <div align="center">
  
-🔭 I’m currently working on **Learning Backend**
+🔭 I’m currently working on **AI Research & Frontend development**
  
-🌱 I’m currently learning **Rust, Go, C++, OCaml**
+🌱 I’m currently learning **Rust, C++, Unity**
 
 📚 IB Student **Is super busy right now**
 
@@ -35,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,tailwind,git,notion,idea" />
-    <img src="https://skillicons.dev/icons?i=robloxstudio,python,javascript,typescript,firebase,java,autocad,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,go,git,cs,unity" /> <br> 
+    <img src="https://skillicons.dev/icons?i=robloxstudio,python,javascript,typescript,firebase,cpp,autocad,notion,idea" >
 </div>
 
 <br/>
