@@ -10,7 +10,7 @@
 
 <div align="center">
  
-🔭 I’m currently working on **AI Research & Frontend development**
+🔭 I’m currently working on **Frontend & Game development**
  
 🌱 I’m currently learning **Rust, C++, Unity**
 
