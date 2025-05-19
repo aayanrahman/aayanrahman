@@ -14,7 +14,7 @@
  
 🌱 I’m currently learning **Rust, C++, Unity**
 
-📚 IB Student **Is super busy right now**
+📚 IB Student **Final Exam Season**
 
  </div>
  
