@@ -2,45 +2,53 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aayan+Rahman!;" />
 </h1>
 
-<h3 align="center">Electrical Engineering student @ the University of Waterloo</h3>
+<h3 align="center">
+Electrical Engineering student @ the University of Waterloo
+</h3>
 
 <hr/>
 
 <br/>
 
 <div align="center">
- 
-🔭 I’m currently working on **Frontend & Game development**
- 
-🌱 I’m currently learning **Rust, C++, Unity**
 
-📚 Searching for a Winter 2026 Internship
+🔭 Building **BLE-enabled mobile apps** that control embedded hardware  
+📱 React Native (Expo) apps connected to ESP32-based RV systems  
+🛡 Safety-focused design: fail-safes, disconnect handling, E-stop logic  
 
- </div>
- 
+🌱 Learning Rust, Modern C++, and Unity  
+🚐 Software Engineering Intern @ Gravity RV
+
+</div>
+
+<br/>
+
 <div align="center"> 
   <a href="mailto:aayan.s.rahman@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://linkedin.com/in/aayan-rahman" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.aayanrahman.me/" target="_blank">
-     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" target="_blank" /> 
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
   </a>
 </div>
 
 <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+
+<h2 align="center">⚒️ Languages · Frameworks · Tools ⚒️</h2>
+
 <br/>
+
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,go,git,cs,unity" /> <br> 
-    <img src="https://skillicons.dev/icons?i=robloxstudio,python,javascript,typescript,firebase,cpp,autocad,notion,idea" >
+  <img src="https://skillicons.dev/icons?i=react,typescript,javascript,cpp,python,go,firebase,git,github,vscode" /><br/>
+  <img src="https://skillicons.dev/icons?i=unity,cs,autocad,html,css,idea,notion" />
 </div>
 
 <br/>
 <hr/>
+
 
 
 <h2 align="center">⚡ Stats ⚡</h2>
