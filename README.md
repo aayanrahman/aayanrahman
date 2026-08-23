@@ -30,7 +30,7 @@ Electrical Engineering student @ the University of Waterloo
   <a href="https://linkedin.com/in/aayan-rahman" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.aayanrahman.me/" target="_blank">
+  <a href="https://ece.uwaterloo.ca/~a235rahm/" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" /> 
   </a>
 </div>
